@@ -2,24 +2,18 @@
   "id": "10990534-7f73-4575-b568-9d0ac2dc64ab",
   "startsAt": "2024-05-05 00:00:00",
   "endsAt": "2024-06-09 23:59:59",
-  "countries": [
-    "CA",
-    "BR"
-  ],
+  "countries": ["CA","BR"],
   "metadata": "t123",
   "variations": [
     {
-      "id": "b324bf14-9a0a-4b4f-a317-567936847193",
-      "weight": 1,
-      "metadata": "t1"
+      "name": "t1"
     },
     {
-      "id": "815842c5-dd4e-4606-8422-a8eacd4922d8",
-      "weight": 2,
-      "metadata": "t2"
+      "name": "t2",
+      "weight": 2
     },
     {
-      "id": "8c864586-5c86-4107-9273-9c8da20f69ef",
+      "name": "t3",
       "weight": 3,
       "metadata": "t3"
     }
