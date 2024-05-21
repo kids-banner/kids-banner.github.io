@@ -1,0 +1,24 @@
+[{
+  "id": "eb7b49fd-15bd-487d-8392-b1126f07590e",
+  "startsAt": "2024-05-21 00:00:00",
+  "endsAt": "2024-12-31 23:59:59",
+  "variations": {
+    "time_left": [
+      {
+        "name": "hidden"
+      },
+      {
+        "name": "visible",
+        "metadata": "2024-12-31 23:59:59"
+      }
+    ],
+    "opening": [
+      {
+        "name": "app_start"
+      },
+      {
+        "name": "play_button"
+      }
+    ]
+  }
+}]
