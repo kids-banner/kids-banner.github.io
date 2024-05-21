@@ -4,23 +4,54 @@
   "endsAt": "2024-06-09 23:59:59",
   "countries": ["CA","BR"],
   "metadata": "t123",
-  "variations": [
-    {
-      "name": "t1",
-      "metadata": "t1"
-    },
-    {
-      "name": "t2",
-      "metadata": "t2"
-    },
-    {
-      "name": "t3",
-      "metadata": "t3"
-    }
-  ]
+  "variations": {
+    "group1": [
+      {
+        "name": "t1",
+        "metadata": "t1"
+      },
+      {
+        "name": "t2",
+        "metadata": "t2"
+      },
+      {
+        "name": "t3",
+        "metadata": "t3"
+      }
+    ],
+    "group2": [
+      {
+        "name": "t2",
+        "metadata": "t2"
+      },
+      {
+        "name": "t3",
+        "metadata": "t3"
+      }
+    ]
+  }
 },
 {
   "id": "feddfd76-9e16-4046-aaf3-de010249815f",
   "startsAt": "2024-05-10 00:00:00",
-  "endsAt": "2024-05-20 23:59:59"
+  "endsAt": "2024-12-20 23:59:59",
+  "variations": {
+    "time_left": [
+      {
+        "name": "hidden"
+      },
+      {
+        "name": "visible",
+        "metadata": "2024-12-20 23:59:59"
+      }
+    ],
+    "opening": [
+      {
+        "name": "app_start"
+      },
+      {
+        "name": "play_button"
+      }
+    ]
+  }
 }]
