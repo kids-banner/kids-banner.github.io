@@ -5,11 +5,10 @@
   "variations": {
     "time_left": [
       {
-        "name": "hidden"
+        "name": "hours_left"
       },
       {
-        "name": "visible",
-        "metadata": "2024-12-31 23:59:59"
+        "name": "today_only"
       }
     ],
     "opening": [
@@ -18,6 +17,17 @@
       },
       {
         "name": "play_button"
+      }
+    ],
+    "button_text": [
+      {
+        "name": "unlock_now"
+      },
+      {
+        "name": "unlock_everything"
+      },
+      {
+        "name": "redeem_offer"
       }
     ]
   }
