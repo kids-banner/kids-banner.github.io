@@ -21,13 +21,16 @@
     ],
     "button_text": [
       {
-        "name": "unlock_now"
+        "name": "unlock_now",
+        "metadata": "PROMOTION_UNLOCK_BUTTON_KEY"
       },
       {
-        "name": "unlock_everything"
+        "name": "unlock_everything",
+        "metadata": "UNLOCK_EVERYTHING_KEY"
       },
       {
-        "name": "redeem_offer"
+        "name": "redeem_offer",
+        "metadata": "PROMOTION_REDEEM_KEY"
       }
     ]
   }
