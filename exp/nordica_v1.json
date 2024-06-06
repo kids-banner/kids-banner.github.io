@@ -5,29 +5,36 @@
   "variations": {
     "time_left": [
       {
-        "name": "hours_left"
+        "name": "hours_left",
+        "disabled": true
       },
       {
-        "name": "today_only"
+        "name": "today_only",
+        "disabled": true
       }
     ],
     "opening": [
       {
-        "name": "app_start"
+        "name": "app_start",
+        "disabled": true
       },
       {
-        "name": "play_button"
+        "name": "play_button",
+        "disabled": true
       }
     ],
     "button_text": [
       {
-        "name": "unlock_now"
+        "name": "unlock_now",
+        "disabled": true
       },
       {
-        "name": "unlock_everything"
+        "name": "unlock_everything",
+        "disabled": true
       },
       {
-        "name": "redeem_offer"
+        "name": "redeem_offer",
+        "disabled": true
       }
     ]
   }
