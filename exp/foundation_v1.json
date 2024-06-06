@@ -12,17 +12,20 @@
       },
       {
         "name": "t2",
-        "metadata": "t2"
+        "metadata": "t2",
+        "disabled": true
       },
       {
         "name": "t3",
-        "metadata": "t3"
+        "metadata": "t3",
+        "disabled": true
       }
     ],
     "group2": [
       {
         "name": "t2",
-        "metadata": "t2"
+        "metadata": "t2",
+        "disabled": true
       },
       {
         "name": "t3",
@@ -38,7 +41,8 @@
   "variations": {
     "time_left": [
       {
-        "name": "hidden"
+        "name": "hidden",
+        "disabled": true
       },
       {
         "name": "visible",
@@ -47,7 +51,8 @@
     ],
     "opening": [
       {
-        "name": "app_start"
+        "name": "app_start",
+        "disabled": true
       },
       {
         "name": "play_button"
