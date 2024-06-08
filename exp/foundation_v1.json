@@ -29,7 +29,8 @@
       },
       {
         "name": "t3",
-        "metadata": "t3"
+        "metadata": "t3",
+        "disabled": true
       }
     ]
   }
