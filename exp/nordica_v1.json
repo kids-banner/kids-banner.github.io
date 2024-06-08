@@ -5,18 +5,16 @@
   "variations": {
     "time_left": [
       {
-        "name": "hours_left",
-        "disabled": true
+        "name": "today_only"
       },
       {
-        "name": "today_only",
+        "name": "hours_left",
         "disabled": true
       }
     ],
     "opening": [
       {
-        "name": "app_start",
-        "disabled": true
+        "name": "app_start"
       },
       {
         "name": "play_button",
@@ -25,8 +23,7 @@
     ],
     "button_text": [
       {
-        "name": "unlock_now",
-        "disabled": true
+        "name": "unlock_now"
       },
       {
         "name": "unlock_everything",
