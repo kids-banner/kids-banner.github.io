@@ -8,17 +8,17 @@
     "group1": [
       {
         "name": "t1",
-        "metadata": "t1"
+        "metadata": "t1",
+        "disabled": true
       },
       {
         "name": "t2",
         "metadata": "t2",
-        "disabled": true
+        "disabled": false
       },
       {
         "name": "t3",
-        "metadata": "t3",
-        "disabled": true
+        "metadata": "t3"
       }
     ],
     "group2": [
