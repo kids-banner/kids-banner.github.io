@@ -26,12 +26,10 @@
         "name": "unlock_now"
       },
       {
-        "name": "unlock_everything",
-        "disabled": true
+        "name": "unlock_everything"
       },
       {
-        "name": "redeem_offer",
-        "disabled": true
+        "name": "redeem_offer"
       }
     ]
   }
