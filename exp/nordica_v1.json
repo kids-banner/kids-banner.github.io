@@ -8,8 +8,7 @@
         "name": "today_only"
       },
       {
-        "name": "hours_left",
-        "disabled": true
+        "name": "hours_left"
       }
     ],
     "opening": [
@@ -17,8 +16,7 @@
         "name": "app_start"
       },
       {
-        "name": "play_button",
-        "disabled": true
+        "name": "play_button"
       }
     ],
     "button_text": [
