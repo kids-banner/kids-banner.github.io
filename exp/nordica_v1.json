@@ -13,11 +13,11 @@
     ],
     "opening": [
       {
-        "name": "app_start",
-        "disabled": true
+        "name": "app_start"
       },
       {
-        "name": "play_button"
+        "name": "play_button",
+        "disabled": true
       }
     ],
     "button_text": [
