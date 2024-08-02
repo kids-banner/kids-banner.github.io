@@ -1,0 +1,50 @@
+[{
+  "id": "eb7b49fd-15bd-487d-8392-b1126f07590e",
+  "startsAt": "2024-05-21 00:00:00",
+  "endsAt": "2024-12-31 23:59:59",
+  "variations": {
+    "time_left": [
+      {
+        "name": "today_only"
+      },
+      {
+        "name": "hours_left"
+      }
+    ],
+    "opening": [
+      {
+        "name": "app_start"
+      },
+      {
+        "name": "play_button",
+        "disabled": true
+      }
+    ],
+    "button_text": [
+      {
+        "name": "unlock_now"
+      },
+      {
+        "name": "unlock_everything"
+      },
+      {
+        "name": "redeem_offer"
+      }
+    ]
+  }
+},
+{
+  "id": "01911444-72d4-746b-be17-5cad93e968dd",
+  "startsAt": "2024-05-21 00:00:00",
+  "endsAt": "2024-12-31 23:59:59",
+  "variations": {
+    "calculator_mode": [
+      {
+        "name": "age"
+      },
+      {
+        "name": "math"
+      }
+    ]
+  }
+}]
