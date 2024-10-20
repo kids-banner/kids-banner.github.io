@@ -32,4 +32,18 @@
       }
     ]
   }
+},{
+  "id": "c28ddbfd-4de9-451a-b431-609a7ade34d7",
+  "startsAt": "2024-10-01 00:00:00",
+  "endsAt": "2024-10-01 23:59:59",
+  "variations": {
+    "enabled": [
+      {
+        "name": "yes"
+      },
+      {
+        "name": "no"
+      }
+    ]
+  }
 }]
